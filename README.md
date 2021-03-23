@@ -1,0 +1,2 @@
+# The-Best-Classifier--Loan-Data-Analysis
+Importing and Pre-processing of data, visualization and standardization of data and splitting of training and testing data. The training data set was used to build an accurate model, and the accuracy was reported using test data set on parameter like Jaccard Index, F1-score and Log-Loss.  The models implemented were built using K Nearest Neighbor(KNN), Decision Tree, Support Vector Machine and Logistic Regression.
